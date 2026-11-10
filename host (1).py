@@ -41,12 +41,12 @@ def keep_alive():
 # --- End Flask Keep Alive ---
 
 # --- Configuration ---
-TOKEN = '8564217297:AAHVwFWpfbWLr69keF-OA6n6gqM0x5zCiC4'
+TOKEN = '9177491526:AAEBI0TZ1LqaZ3ziJ7nfL2FtB5MTKkI-RFE'
 OWNER_ID = 8877845282
 ADMIN_ID = 8877845282
-YOUR_USERNAME = '@ASLAMxcodeex'
-UPDATE_CHANNEL = '@aslamxcodex'
-LOG_CHANNEL_ID = --1004405638776
+YOUR_USERNAME = ''
+UPDATE_CHANNEL = ''
+LOG_CHANNEL_ID = --
 
 # Force Join Configuration (3 Channels + 2 Groups)
 FORCE_JOIN_CHANNELS = [
